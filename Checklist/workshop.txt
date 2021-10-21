@@ -1,0 +1,68 @@
+version=1
+id=2601977020
+title=Checklist
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=
+description=[h2]What does this mod do?[/h2]
+description=Allos you to draw a literature and or looting checklist from a sheet of paper and a pen (pen, red pen, blue pen, and or pencil!).
+description=
+description=[h2] Notice! [/h2]
+description=I wrote the lists based on what I am looking for. I also ran out of ideas on what to add so if you have any requests let me know and I will update the mod.
+description=
+description=[h2]Features:[/h2]
+description=Create a Literature checklist 
+description=Create a Looting checklist 
+description=Create a CD & Audiobook checklist 
+description=Create a Home VHS checklist 
+description=Create a Retail VHS checklist 
+description=Create a Mod checklist (Mods that add literature & VHS Tapes. Also Including Maps)
+description=Create a Hydrocraft checklist  (All Literature)
+description=Create any list with any pen and or pencil, all will result in a list with black pen.
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=498441420&searchtext=Hydrocraft][u]Hydrocraft All Builds[/u][/url] Supported (All Literature)
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601912220][u]Day By Day Armageddon[/u][/url] Supported
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2392987599&searchtext=aquastar+yacht+club][u]Aquatsar Yacht Club[/u][/url] Supported (repair your boats magazine)
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2284317690&searchtext=taped+tv+shows][u]Taped TV Shows[/u][/url] Supported
+description=and Supports many other mods.
+description=Support for the new B41.54 Items such as: All CDs, Audiobooks, Retail VHS & Home VHS (225+ items)
+description=
+description=
+description=[h2]Where to find the checklist[/h2]
+description=You will need to craft it using a sheet of paper and and a pen (pen, red pen, blue pen, and or pencil)
+description=
+description=[h2]Compatibility[/h2]
+description=This mod should be compatible with any other mod.
+description=This mod should work with [b]All Builds[/b]
+description=
+description=[h2]Bugs:[/h2]
+description=None at this time
+description=
+description=[h2]Roadmap:[/h2]
+description=More lists
+description=Community Requests
+description=
+description=
+description=[h2]Check out my other mods[/h2]
+description=[url=https://steamcommunity.com/id/Blackbeard06/myworkshopfiles/?appid=108600][u]Blackbeard's Workshop[/u][/url]
+description=
+description=[h3]Food & Drink Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2581249482][u]More Vanilla Alcohol [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2098960488][u]More Beer [Build 41.54][/u][/url]
+description=
+description=[h3]Firearm Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584812605][u]AR-15 [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2584211049][u]Weapon Mod [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049038][u]Ammo Logistics [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601349483][u]More Vanilla Firearms [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577049336][u]More Ammo [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2579385169][u]M&P 9mm [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2577942794][u]Operator's M4 [Build 41.54][/u][/url]
+description=
+description=[h3]Other Mods[/h3]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2413030042][u]Small Dot Cursor [All Builds][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601912220][u]Day By Day Armageddon [Build 41.54][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2601977020][u]Checklist [All Builds][/u][/url]
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2607200206][u]More Map Symbols [All Builds][/u][/url]
+description=
+description=[H2]Mod Info[/H2]
+tags=Build 40;Build 41;Interface;Literature
+visibility=public

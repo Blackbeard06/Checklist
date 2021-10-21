@@ -1,0 +1,355 @@
+module Base
+{
+ 
+    item literatureChecklist
+    {
+      Type                = Normal,
+      DisplayName         = Literature Checklist,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/literatureChecklist.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+    item fullmap
+    {
+      Type                = Normal,
+      DisplayName         = fullmap,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/fullmap.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+    item LootingChecklist
+    {
+      Type                = Normal,
+      DisplayName         = Looting Checklist,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/LootingChecklist.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+    item RetailVHSChecklist
+    {
+      Type                = Normal,
+      DisplayName         = Retail VHS Checklist,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/RetailVHSChecklist.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+    item HomeVHSChecklist
+    {
+      Type                = Normal,
+      DisplayName         = Home VHS Checklist,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/HomeVHSChecklist.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+    item CDChecklist
+    {
+      Type                = Normal,
+      DisplayName         = CD Checklist,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/CDChecklist.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+    item HydrocraftChecklist
+    {
+      Type                = Normal,
+      DisplayName         = Hydrocraft Checklist,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/HydrocraftChecklist.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+    item ModChecklist
+    {
+      Type                = Normal,
+      DisplayName         = Mod Checklist,
+      Icon                = Map,
+      Weight              = 0.001,
+      Map                 = media/ui/LootableMaps/ModChecklist.png,
+      SurvivalGear        = TRUE,
+      WorldStaticModel    = Map,
+		CanBeWrite          = true,
+    }
+
+	recipe Draw a literature Checklist 
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:literatureChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a literature Checklist 
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:literatureChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a literature Checklist 
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:literatureChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a literature Checklist 
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:literatureChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Looting Checklist 
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:LootingChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Looting Checklist 
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:LootingChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Looting Checklist 
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:LootingChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Looting Checklist 
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:LootingChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Retail VHS Checklist
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:RetailVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Retail VHS Checklist
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:RetailVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Retail VHS Checklist
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:RetailVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Retail VHS Checklist
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:RetailVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Home VHS Checklist
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:HomeVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Home VHS Checklist
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:HomeVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Home VHS Checklist
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:HomeVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Home VHS Checklist
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:HomeVHSChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a CD Checklist
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:CDChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a CD Checklist
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:CDChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a CD Checklist
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:CDChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a CD Checklist
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:CDChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Hydrocraft Checklist
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:HydrocraftChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Hydrocraft Checklist
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:HydrocraftChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Hydrocraft Checklist
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:HydrocraftChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Hydrocraft Checklist
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:HydrocraftChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Mod literature Checklist
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:ModChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Mod literature Checklist
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:ModChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Mod literature Checklist
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:ModChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Mod literature Checklist
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:ModChecklist,
+       Time:90.0,
+    }
+
+    recipe Draw a Full Map
+    {
+       keep RedPen,
+       SheetPaper2 =1,
+       Result:fullmap,
+       Time:90.0,
+    }
+
+    recipe Draw a Full Map
+    {
+       keep BluePen,
+       SheetPaper2 =1,
+       Result:fullmap,
+       Time:90.0,
+    }
+
+      recipe Draw a Full Map
+    {
+       keep Pencil,
+       SheetPaper2 =1,
+       Result:fullmap,
+       Time:90.0,
+    }
+
+    recipe Draw a Full Map
+    {
+       keep Pen,
+       SheetPaper2 =1,
+       Result:fullmap,
+       Time:90.0,
+    }
+}
